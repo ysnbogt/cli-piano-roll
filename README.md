@@ -1,20 +1,20 @@
-<h1 align="center">🎹 Terminal Piano Roll</h1>
+<h1 align="center">🎹 CLI Piano Roll</h1>
 
 <div align="center">
   <img src="./samples/sample.png" width="100%" />
 </div>
 
-## Usage
+## Getting Started
 
 ```zsh
-$ git clone https://github.com/ysnbogt/terminal-piano-roll
-$ cd terminal-piano-roll
+$ git clone https://github.com/ysnbogt/cli-piano-roll
+$ cd cli-piano-roll
 $ pip install .
 $ piano_roll <file-path> [option...]
 $ piano_roll ./sample.mid -c -b -k -m -p
 ```
 
-## Option
+## Options
 
 | Option             | Description                                                                        |
 | :----------------- | ---------------------------------------------------------------------------------- |
