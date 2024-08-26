@@ -1,0 +1,6 @@
+.vscode/
+
+build/
+piano_roll.egg-info/
+
+.ruff_cache/
