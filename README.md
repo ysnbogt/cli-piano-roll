@@ -7,8 +7,8 @@
 ## Usage
 
 ```zsh
-$ git clone https://github.com/ysnbogt/terminal_piano_roll
-$ cd terminal_piano_roll
+$ git clone https://github.com/ysnbogt/terminal-piano-roll
+$ cd terminal-piano-roll
 $ pip install .
 $ piano_roll <file-path> [option...]
 $ piano_roll ./sample.mid -c -b -k -m -p
